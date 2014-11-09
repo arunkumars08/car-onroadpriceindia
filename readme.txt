@@ -1,0 +1,1 @@
+Hit the index.html in the browser without chaning the folder's structure.

@@ -1,0 +1,68 @@
+* {
+	font-family: "Segoe UI";
+}
+
+.user-input {
+	position: absolute;
+	bottom: 10px;
+	left: 0;
+	height: auto;
+	background: rgba(255, 255, 255, 0.8);
+	z-index: 9998;
+	padding: 5px;
+	color: #7f8c8d;
+}
+
+.overlay-screen {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: none;
+	height: 100%;
+	width: 100%;
+	z-index: 9999;
+	background: rgba(0, 0, 0, 0.9);
+}
+
+.loading {
+	width: 50px;
+	margin: 25% 0px 20% 49%;
+}
+
+.show-me {
+	display: block !important;
+}
+
+.hide-me {
+	display: none !important;
+}
+
+.ind-section {
+	margin: 10px 0px 10px 0px;
+}	
+
+.user-input select, .user-input label {
+	font-size: 16px;
+	padding: 5px;
+	height: 35px;
+	font-weight: normal;
+	background: none;
+}
+
+.user-input select {
+	width: 150px;
+	color: #7f8c8d;
+}
+
+.align-center {
+	text-align: center;
+}
+
+#search {
+	background: #8e44ad;
+	border: 0;
+	padding: 5px 10px 5px 10px;
+	color: #ecf0f1;
+	font-size: 16px;
+	font-weight: normal;
+}

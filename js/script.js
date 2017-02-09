@@ -1,5 +1,6 @@
 	/** MAPS **/
-	
+	/* Test */
+	//  test 
 	var map = '';
 	function initialize() {
 		var mapOptions = {
